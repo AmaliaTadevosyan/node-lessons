@@ -1,0 +1,11 @@
+{
+  "name": "node-lessons",
+  "version": "0.0.1",
+  "description": "Node Lessons",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Amalia Tadevosyan",
+  "license": "ISC"
+}
